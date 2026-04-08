@@ -1,0 +1,15 @@
+name: "Gitleak Scan"
+description: "This action scans the repository for sensitive information using Gitleaks"
+author: "Devops Mario Fribla Gonzalez"
+inputs:
+  gitleaks-version:
+    description: "Version of Gitleaks to use"
+    required: false
+    default: "8.27.2"
+    type: string
+runs:
+  using: "node20"
+  main: "dist/index.js"
+branding:
+  color: "green"
+  icon: "package"

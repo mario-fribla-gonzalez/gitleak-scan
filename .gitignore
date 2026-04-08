@@ -1,0 +1,12 @@
+*
+!**/
+!.gitignore
+!*.yml
+!*.sh
+!*.ps1
+!*.j2
+!*.js
+!*.json
+!*.toml
+!*.md
+node_modules/
