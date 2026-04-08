@@ -1,0 +1,1 @@
+# gitleak-scan
