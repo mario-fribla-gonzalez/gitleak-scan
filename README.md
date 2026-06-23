@@ -52,5 +52,6 @@ jobs:
 - Si se detectan secretos, el workflow fallará automáticamente si `fail-on-detect` está en `true`.
 
 ---
-DevOps Mario Fribla Gonzalez
+Mario Fribla
 
+***DevOps***
